@@ -8,5 +8,6 @@ namespace RPSGAMEDEMO1
 {
     class GamePlayLogic
     {
+        string name;
     }
 }
